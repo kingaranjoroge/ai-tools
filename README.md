@@ -203,6 +203,3 @@ python -m spacy download en_core_web_sm
 - Code is modular and reusable
 - Visualizations are included for better understanding
 - Results are clearly presented with appropriate metrics
-
-## License
-This project is open source and available under the MIT License. 
